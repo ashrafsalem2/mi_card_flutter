@@ -13,6 +13,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: SafeArea(
+        
         child: Scaffold(
           backgroundColor: Colors.teal,
           body: Column(
